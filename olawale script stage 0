@@ -1,0 +1,11 @@
+ 
+ 
+           int main ()
+                     {
+            cout << "NAME- Ojo-Rowland Olawale";
+            cout << "EMAIL- olawalerowland123@gmail.com";
+            cout << "LANGUAGE USED- C++";
+            cout << " BIOSTACK- Genomics";
+            cout << "SLACK USERNAME- @olawale";
+            return 0
+            }
