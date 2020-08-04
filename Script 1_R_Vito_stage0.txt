@@ -1,0 +1,14 @@
+Script
+a="Vito"
+b="@Vito Antonio"
+c="vito.oceano@gmail.com"
+d="R"
+sprintf("Hello, my name is %s! Nice to meet you people! For any details,my username is %s, my email is %s , and this script was applied in the %s software",a, b, c, d)
+
+Console
+> a="Vito"
+> b="@Vito Antonio"
+> c="vito.oceano@gmail.com"
+> d="R"
+> sprintf("Hello, my name is %s! Nice to meet you people! For any details,my username is %s, my email is %s , and this script is applied in the %s software",a, b, c, d)
+[1] "Hello, my name is Vito! Nice to meet you people! For any details,my username is @Vito Antonio, my email is vito.oceano@gmail.com , and this script is applied in the R software"
