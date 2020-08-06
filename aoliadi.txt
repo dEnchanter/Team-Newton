@@ -3,5 +3,4 @@ const userName = 'aoliadi';
 const lang = 'javascript';
 const biostack = 'Bioinformatics'
 const email = 'aoliadi1998@gmail.com'
-
 console.log(name, userName, lang, biostack, email)
