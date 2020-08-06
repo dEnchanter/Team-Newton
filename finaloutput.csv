@@ -1,0 +1,64 @@
+const name = 'Liadi Ahmed';
+const userName = 'aoliadi';
+const lang = 'javascript';
+const biostack = 'Bioinformatics'
+const email = 'aoliadi1998@gmail.com'
+console.log(name, userName, lang, biostack, email)
+
+>>> print("Caroline Vilas Boas de Melo\ncarolinevilas@hotmail.com\nPython\nGenomics\n@Caroline")
+
+name = 'Name - Ebubechukwu Haniel Nkadi'
+email = 'Email - Haniel.nkadi6@gmail.com'
+program = 'Programming Language used - Python'
+biostack = 'Biostack - Genomics'
+slack = 'Slack Username - Haniel'
+print(name, email, program, biostack, slack)
+
+int main ()
+    {
+        cout << "NAME- Ojo-Rowland Olawale";
+        cout << "EMAIL- olawalerowland123@gmail.com";
+        cout << "LANGUAGE USED- C++";
+        cout << " BIOSTACK- Genomics";
+        cout << "SLACK USERNAME- @olawale";
+        return 0
+    }
+    
+#!/bin/bash
+name="Opelopejesu Tolulope Owolabi"
+email="opelopejesu97@gmail.com"
+language="bash"
+stack="genomics"
+username="@Opelopejesu"
+echo $name, $email, $language, $stack, $username
+
+print "Saheed Ajayi, saheedajayi13@gmail.com, Phyton 2.7, Data Analytics, @Saheed"
+
+function myDetails(name, email, lang, stack, userName){
+    //print name, email, language used, biostack, slack username with @
+    console.log(`My details are: ${name}, ${email}, ${lang}, ${stack}, @${userName}`);
+}
+myDetails('FOla Utthy', 'folautthy@gmail.com', 'javascript', 'Software Developer', 'fola')
+
+Script
+a="Vito"
+b="@Vito Antonio"
+c="vito.oceano@gmail.com"
+d="R"
+sprintf("Hello, my name is %s! Nice to meet you people! For any details,my username is %s, my email is %s , and this script was applied in the %s software",a, b, c, d)
+
+# stage-0
+# written with ruby version 1.4.0
+name = "Adejinmi Oluwapelumi"
+email = "oluwapelumijohnadejinmi@gmail.com"
+proglanguage = "ruby"
+biostack = "Genomics"
+slUsername = "John"
+print <<PEL
+#{name}
+#{email}
+#{proglanguage}
+#{biostack}
+@#{slUsername}
+PEL
+
