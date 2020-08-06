@@ -41,11 +41,11 @@ Bash | Opelopejesu.txt | 5.0.18
 Python | CarolineStage0Script.txt | 3.7.7
 Python | HanielHackBioStage0.txt | 3.8.5
 Python | SaheedFirstTask.txt | 2.7
-R | Script_1_R_Vito_stage0.txt | xx
+R | Script_1_R_Vito_stage0.txt | 4.0.2
 Ruby | Stage01.txt | 1.4.0
-JavaScript | aoliadi.txt | xx
-JavaScript | script0.txt | xx
-C++ | olawale_script_stage_0.txt | xx
+JavaScript | aoliadi.txt | not informed
+JavaScript | script0.txt | not informed
+C++ | olawale_script_stage_0.txt | not informed
 
 ## Instructions to the members
 * Please, follow the steps to conclude the task
