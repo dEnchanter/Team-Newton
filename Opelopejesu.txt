@@ -6,4 +6,3 @@ stack="genomics"
 username="@Opelopejesu"
 
 echo $name, $email, $language, $stack, $username
-Opelopejesu Tolulope Owolabi, opelopejesu97@gmail.com, bash, genomics, @Opelopejesu

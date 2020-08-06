@@ -1,1 +1,7 @@
-console.log('Name: Liadi Ahmed; Slack username: aoliadi; Language: JavaScript; Biostack: Bioinformatics; E-mail: aoliadi1998@gmail.com;')
+const name = 'Liadi Ahmed';
+const userName = 'aoliadi';
+const lang = 'javascript';
+const biostack = 'Bioinformatics'
+const email = 'aoliadi1998@gmail.com'
+
+console.log(name, userName, lang, biostack, email)
