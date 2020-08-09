@@ -1,4 +1,3 @@
-Script
 a="Vito"
 b="@Vito Antonio"
 c="vito.oceano@gmail.com"
