@@ -1,0 +1,9 @@
+#Stage0
+name <- "Abeer Fawzi"
+email <- "abeeraltouhami@gmail.com"
+lang <- "R language"
+slackUserName <- "@Abeer"
+print(name)
+print(email)
+print(lang)
+print(slackUserName)
